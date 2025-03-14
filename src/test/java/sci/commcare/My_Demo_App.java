@@ -28,7 +28,7 @@ public class My_Demo_App {
 
 		UiAutomator2Options options = new UiAutomator2Options().setPlatformName("Android").setPlatformVersion("7.0")
 				.setAutomationName("UiAutomator2").setDeviceName("emulator-5554")
-				.setApp("C:\\Users\\rithi\\Downloads\\commcare\\commcare\\src\\test\\java\\resources\\Android-MyDemoAppRN.1.3.0.build-244 (1).apk");
+				.setApp("C:\\Users\\rithi\\Downloads\\Appium-main\\Appium-main\\src\\test\\java\\resources\\Android-MyDemoAppRN.1.3.0.build-244 (1).apk");
 				
 
 		AppiumDriverLocalService service = new AppiumServiceBuilder()

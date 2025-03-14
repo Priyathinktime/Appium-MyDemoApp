@@ -30,7 +30,7 @@ public class My_Demo_App_iOS {
 
 UiAutomator2Options options = new UiAutomator2Options().setPlatformName("iOS").setPlatformVersion("18.3")
 				.setAutomationName("XCUITest").setDeviceName("iPhone 16")
-				.setApp("C:\\Users\\rithi\\Downloads\\commcare\\commcare\\src\\test\\java\\resources\\Android-MyDemoAppRN.1.3.0.build-244 (1).apk");
+				.setApp("D:\\DemoFrame01\\Appium_testng\\src\\main\\java\\RakulshettyAppdownload\\resources\\Android-MyDemoAppRN.1.3.0.build-244 (1).apk");
 				
 
 		AppiumDriverLocalService service = new AppiumServiceBuilder()
