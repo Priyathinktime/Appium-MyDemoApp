@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CommCare Suite">
+  <test name="CommCare Test">
+    <classes>
+      <!-- Replace 'sci.commcare.TestFlow' with the actual package and class name containing your tests -->
+      <class name="sci.commcare.TestFlow" />
+    </classes>
+  </test>
+</suite>
